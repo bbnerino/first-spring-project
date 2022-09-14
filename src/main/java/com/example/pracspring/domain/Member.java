@@ -15,7 +15,6 @@ public class Member { // 모든 계층에서 사용하기 위한 POJO
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
